@@ -1,0 +1,31 @@
+ Detection
+
+The email was identified as suspicious based on the following indicators:
+
+- Sender email address is not the official domain (hdfcbank-support.com)
+- Message creates urgency ("Account Suspended")
+- Contains external link asking for verification
+-----
+Analysis
+Detailed analysis of the email shows multiple phishing indicators:
+
+1. Sender Analysis:
+- The domain "hdfcbank-support.com" is not an official bank domain
+- Indicates possible spoofing attempt
+
+2. URL Analysis:
+- Link uses suspicious domain "hdfc-secure-login.xyz"
+- Not related to official banking website
+
+3. Social Engineering:
+- Uses fear tactic ("Account Suspended")
+- Pressures user to act quickly
+----
+Containment
+
+Actions taken to prevent further risk:
+
+- Email marked as phishing
+- Sender domain flagged (simulated)
+- Users warned not to click the link
+- Malicious URL considered blocked (simulation)
