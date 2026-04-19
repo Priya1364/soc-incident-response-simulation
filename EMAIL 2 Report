@@ -1,0 +1,29 @@
+Detection
+
+The email appears suspicious due to:
+
+- Unofficial sender domain (office365-support-mail.com)
+- Urgent message about mailbox issue
+- Contains external link for upgrade
+----
+Analysis
+
+1. Sender Analysis:
+- Domain is not official Microsoft domain
+- Likely spoofed email
+
+2. URL Analysis:
+- Link "office365-secure-upgrade.net" is not legitimate
+- Could lead to phishing website
+
+3. Social Engineering:
+- Creates panic ("Mailbox full")
+- Forces immediate action
+----
+Containment
+
+- Email marked as spam/phishing
+- Suspicious domain flagged
+- Users advised not to interact
+- Link blocked (simulated)
+----
