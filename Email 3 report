@@ -1,0 +1,29 @@
+Detection
+
+The email is flagged as suspicious because:
+
+- Sender domain is not official (tcs-careers.online)
+- Unexpected job offer message
+- Contains verification link
+----
+Analysis
+
+1. Sender Analysis:
+- Domain is not official TCS domain
+- Indicates fake recruitment attempt
+
+2. URL Analysis:
+- Link "tcs-career-portal.xyz" is suspicious
+- Likely phishing website
+
+3. Social Engineering:
+- Uses excitement ("Interview Confirmation")
+- Tricks user into clicking link
+-----
+Containment
+
+- Email marked as phishing
+- Domain flagged (simulated)
+- Users warned about fake job scams
+- Link access blocked (simulation)
+-----
